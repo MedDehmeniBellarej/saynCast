@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414.731" height="252.09" viewBox="0 0 414.731 252.09">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4e4e4e"/>
+      <stop offset="1" stop-color="#101010"/>
+    </linearGradient>
+    <filter id="Tracé_30" x="0" y="0" width="414.731" height="252.09" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Groupe_162255" data-name="Groupe 162255" transform="translate(-412.633 -425)">
+    <g transform="matrix(1, 0, 0, 1, 412.63, 425)" filter="url(#Tracé_30)">
+      <path id="Tracé_30-2" data-name="Tracé 30" d="M9.4,0H387.33a9.4,9.4,0,0,1,9.4,9.4V224.689a9.4,9.4,0,0,1-9.4,9.4H9.4a9.4,9.4,0,0,1-9.4-9.4V9.4A9.4,9.4,0,0,1,9.4,0Z" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="play-button" transform="translate(591.049 519.094)">
+      <g id="Groupe_24" data-name="Groupe 24">
+        <path id="Tracé_30-3" data-name="Tracé 30" d="M28.951,0A28.951,28.951,0,1,0,57.9,28.951,28.951,28.951,0,0,0,28.951,0Zm-7.91,41.543V16.359l21.81,12.592Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
